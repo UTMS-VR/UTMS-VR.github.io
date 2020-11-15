@@ -1,1 +1,1 @@
-[公開先](https://utms-vr.github.io/Website/)
+[公開先](https://utms-vr.github.io/)
