@@ -10,7 +10,7 @@ VR機器を用いて可視化を行うプロジェクトです．
 # 研究発表
 - 名取雅生，VRによる数学的対象の可視化，
   [トポロジーとコンピュータ](https://sites.google.com/view/tac2020/home)，2020，
-  ([スライド](resources/topology_computer_2020.pdf))
+  ([スライド](resources/topology_computer_2020/topology_computer_2020.pdf))
 
   スライド内で使用されている各動画のリンク
   - [vrhmd.mp4](resources/topology_computer_2020/vrhmd.mp4)
