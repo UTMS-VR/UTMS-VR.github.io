@@ -9,9 +9,18 @@ VR機器を用いて可視化を行うプロジェクトです．
 
 # 研究発表
 - 名取雅生，VRによる数学的対象の可視化，
-  [トポロジーとコンピュータ](https://sites.google.com/view/tac2020/home)，2020
-  
-  [スライド](resources/topology_computer_2020.pdf) (スライド内のリンクから各動画を開けます)
+  [トポロジーとコンピュータ](https://sites.google.com/view/tac2020/home)，2020，
+  ([スライド](resources/topology_computer_2020.pdf))
+
+  スライド内で使用されている各動画のリンク
+  - [vrhmd.mp4](resources/topology_computer_2020/vrhmd.mp4)
+  - [draw.mp4](resources/topology_computer_2020/draw.mp4)
+  - [move.mp4](resources/topology_computer_2020/move.mp4)
+  - [cutcombine.mp4](resources/topology_computer_2020/cutcombine.mp4)
+  - [trivialknot1.mp4](resources/topology_computer_2020/trivialknot1.mp4)
+  - [knotenergy.mp4](resources/topology_computer_2020/knotenergy.mp4)
+  - [manual.mp4](resources/topology_computer_2020/manual.mp4)
+  - [trivialknot2.mp4](resources/topology_computer_2020/trivialknot2.mp4)
 
 # メンバー
 - 名取雅生 (東京大学 修士課程)
