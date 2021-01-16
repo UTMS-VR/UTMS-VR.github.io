@@ -1,0 +1,8 @@
+# coding: utf-8
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+# バージョン情報は https://pages.github.com/versions/ から取得 (2021/01/16)
+gem "jekyll", "3.9.0"
+gem "github-pages", "~> 209", group: :jekyll_plugins
