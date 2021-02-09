@@ -4,8 +4,12 @@ VR機器を用いて可視化を行うプロジェクトです．
 # 成果物
 [Oculus Quest](https://www.oculus.com/quest/?locale=ja_JP) で動作するソフトウェアを開発しています．
 
-- 3次元空間内の結び目の描画や変形を行うソフトウェア
-  (オープンソースソフトウェアとして近日中に公開する予定です)
+- DeformingKnot: 3次元空間内の結び目の描画や変形を行うソフトウェア
+
+  [https://github.com/UTMS-VR/DeformingKnot](https://github.com/UTMS-VR/DeformingKnot)
+
+  <img src="resources/Deformingknot/knot_3_1.png" width="200">
+  <img src="resources/Deformingknot/knot_4_1.png" width="200">
 
 # 研究発表
 - 名取雅生，VRによる数学的対象の可視化，
@@ -21,6 +25,10 @@ VR機器を用いて可視化を行うプロジェクトです．
   - [knotenergy.mp4](resources/topology_computer_2020/knotenergy.mp4)
   - [manual.mp4](resources/topology_computer_2020/manual.mp4)
   - [trivialknot2.mp4](resources/topology_computer_2020/trivialknot2.mp4)
+  
+- 名取雅生, VR を用いた結び目の描画と変形,
+
+  [IMI共同利用「VRを用いたインタラクティブな高次元認識」](https://www.imi.kyushu-u.ac.jp/kyodo-riyo/research_meetings/view/16), 2021
 
 # メンバー
 - 名取雅生 (東京大学 修士課程)
