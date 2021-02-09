@@ -8,8 +8,10 @@ VR機器を用いて可視化を行うプロジェクトです．
 
   [https://github.com/UTMS-VR/DeformingKnot](https://github.com/UTMS-VR/DeformingKnot)
 
+  <!--
   <img src="resources/Deformingknot/knot_3_1.png" width="200">
   <img src="resources/Deformingknot/knot_4_1.png" width="200">
+  -->
 
 # 研究発表
 - 名取雅生，VRによる数学的対象の可視化，
