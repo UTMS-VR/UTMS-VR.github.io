@@ -28,9 +28,11 @@ VR機器を用いて可視化を行うプロジェクトです．
   - [manual.mp4](resources/topology_computer_2020/manual.mp4)
   - [trivialknot2.mp4](resources/topology_computer_2020/trivialknot2.mp4)
   
-- 名取雅生, VR を用いた結び目の描画と変形,
+- 名取雅生，VR を用いた結び目の描画と変形，
+  [IMI共同利用「VRを用いたインタラクティブな高次元認識」](https://www.imi.kyushu-u.ac.jp/kyodo-riyo/research_meetings/view/16)，2021，
+  ([スライド](resources/IMI_2021/IMI_2021.pdf))
 
-  [IMI共同利用「VRを用いたインタラクティブな高次元認識」](https://www.imi.kyushu-u.ac.jp/kyodo-riyo/research_meetings/view/16), 2021
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j7liMSn6IxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # メンバー
 - 名取雅生 (東京大学 修士課程)
